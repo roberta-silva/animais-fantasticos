@@ -26,4 +26,4 @@ Reforçar conceitos fundamentais de **JavaScript** e melhorar a compreensão sob
 
 ## 📷 Prévia
 
-_em breve_
+[Acesse aqui!](https://roberta-silva.github.io/animais-fantasticos/)
