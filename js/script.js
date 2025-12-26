@@ -6,7 +6,10 @@ import initAccordion from "./modules/accordion.js";
 
 import iniTabNav from "./modules/tabnav.js";
 
+import iniModal from "./modules/modal.js";
+
 initScrollSuave();
 initAnimacaoScroll();
 initAccordion();
 iniTabNav();
+iniModal();

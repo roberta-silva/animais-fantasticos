@@ -8,7 +8,7 @@ export default function initAnimacaoScroll() {
         const isSectionVisible = sectionTop - windowMetade < 0;
         if (isSectionVisible) {
           section.classList.add("ativo");
-          console.log("animar");
+          // console.log("animar");
         } else section.classList.remove("ativo");
       });
     }
