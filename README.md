@@ -32,9 +32,10 @@ O foco está no aprendizado e prática dos seguintes conceitos:
 - npm  
 - Webpack  
 - JSON
-- 
+
 ## 🎯 Objetivo de aprendizado
 
 Consolidar conhecimentos fundamentais de **JavaScript**, com foco em interatividade, manipulação do DOM, organização de código e aplicação de lógica em projetos reais.
+
 
 
